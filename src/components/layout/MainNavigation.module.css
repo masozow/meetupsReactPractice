@@ -8,6 +8,7 @@ header{
     justify-content: space-between;
     padding: 0 1rem;
     background-color: #051821;
+    overflow: hidden;
 }
 .logo{
     font-size: 2rem;
