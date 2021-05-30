@@ -14,13 +14,13 @@ function MainNavigation(props) {
             <nav>
                 <ul>
                     <li>
-                        <NavLink to='/'>All meetups</NavLink>
+                        <NavLink to='/' exact activeClassName={classes.active}>All meetups</NavLink>
                     </li>
                     <li>
-                        <NavLink to='/new-meetup'>New meetup</NavLink>
+                        <NavLink to='/new-meetup' activeClassName={classes.active}>New meetup</NavLink>
                     </li>
                     <li>
-                        <NavLink to='/favorites'>Favorites
+                        <NavLink to='/favorites' activeClassName={classes.active}>Favorites
                             <span className={classes.badge}>
                                 {favoritesCtx.totalFavorites}
                             </span>
