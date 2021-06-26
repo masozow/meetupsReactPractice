@@ -10,42 +10,10 @@ header{
     background-color: #051821;
     overflow: hidden;
 }
+
 .logo{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color:white;
     font-weight: bold;
+    flex-grow: 1;
 }
-header ul{
-    list-style: none;
-    display: flex;
-    align-items: baseline;
-    margin:0;
-    padding:0;
-}
-
-header li{
-    margin-left: 0.5rem;
-    font-size: 1.5rem;
-}
-
-header a{
-    text-decoration: none;
-    color:#f2e2d0;
-    padding: 1.625rem 0.5rem;
-}
-
-header a:hover,
-header a:active,
-header a.active{
-    background-color: #1a4645;
-    color:white;
-}
-
-.badge{
-    padding: 0.25rem 0.5rem;
-    border-radius:100%;
-    background-color: #266867;
-    margin-left: 0.5rem;
-    color:white;
-}
-

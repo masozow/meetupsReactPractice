@@ -1,0 +1,12 @@
+.menuButton{
+    color: 'white'; 
+    font-size: '2rem';
+    display: inline-block;
+}
+
+@media screen and (min-width:920px){
+    .menuButton{
+        display: none; 
+    }
+}
+
