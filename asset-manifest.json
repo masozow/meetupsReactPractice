@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/meetupsReactPractice/static/css/main.87d9ac00.chunk.css",
-    "main.js": "/meetupsReactPractice/static/js/main.de747773.chunk.js",
-    "main.js.map": "/meetupsReactPractice/static/js/main.de747773.chunk.js.map",
-    "runtime-main.js": "/meetupsReactPractice/static/js/runtime-main.e4d0b481.js",
-    "runtime-main.js.map": "/meetupsReactPractice/static/js/runtime-main.e4d0b481.js.map",
-    "static/js/2.c15424c0.chunk.js": "/meetupsReactPractice/static/js/2.c15424c0.chunk.js",
-    "static/js/2.c15424c0.chunk.js.map": "/meetupsReactPractice/static/js/2.c15424c0.chunk.js.map",
-    "static/js/3.7490cdca.chunk.js": "/meetupsReactPractice/static/js/3.7490cdca.chunk.js",
-    "static/js/3.7490cdca.chunk.js.map": "/meetupsReactPractice/static/js/3.7490cdca.chunk.js.map",
+    "main.css": "/meetupsReactPractice/static/css/main.22966c27.chunk.css",
+    "main.js": "/meetupsReactPractice/static/js/main.9fe9f571.chunk.js",
+    "main.js.map": "/meetupsReactPractice/static/js/main.9fe9f571.chunk.js.map",
+    "runtime-main.js": "/meetupsReactPractice/static/js/runtime-main.bb3b69c3.js",
+    "runtime-main.js.map": "/meetupsReactPractice/static/js/runtime-main.bb3b69c3.js.map",
+    "static/js/2.5afbbfe3.chunk.js": "/meetupsReactPractice/static/js/2.5afbbfe3.chunk.js",
+    "static/js/2.5afbbfe3.chunk.js.map": "/meetupsReactPractice/static/js/2.5afbbfe3.chunk.js.map",
+    "static/js/3.02f78d64.chunk.js": "/meetupsReactPractice/static/js/3.02f78d64.chunk.js",
+    "static/js/3.02f78d64.chunk.js.map": "/meetupsReactPractice/static/js/3.02f78d64.chunk.js.map",
     "index.html": "/meetupsReactPractice/index.html",
-    "static/css/main.87d9ac00.chunk.css.map": "/meetupsReactPractice/static/css/main.87d9ac00.chunk.css.map",
-    "static/js/2.c15424c0.chunk.js.LICENSE.txt": "/meetupsReactPractice/static/js/2.c15424c0.chunk.js.LICENSE.txt"
+    "static/css/main.22966c27.chunk.css.map": "/meetupsReactPractice/static/css/main.22966c27.chunk.css.map",
+    "static/js/2.5afbbfe3.chunk.js.LICENSE.txt": "/meetupsReactPractice/static/js/2.5afbbfe3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4d0b481.js",
-    "static/js/2.c15424c0.chunk.js",
-    "static/css/main.87d9ac00.chunk.css",
-    "static/js/main.de747773.chunk.js"
+    "static/js/runtime-main.bb3b69c3.js",
+    "static/js/2.5afbbfe3.chunk.js",
+    "static/css/main.22966c27.chunk.css",
+    "static/js/main.9fe9f571.chunk.js"
   ]
 }
