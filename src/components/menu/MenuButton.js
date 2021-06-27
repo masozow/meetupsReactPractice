@@ -7,8 +7,9 @@ function MenuButton(props) {
         <div className={classes.menuButton}>
             {
                 props.open ?
-                    <FontAwesomeIcon icon={faTimes} size='lg' color='white' onClick={props.handleClick} />
-                    : <FontAwesomeIcon icon={faBars} size='lg' color='white' onClick={props.handleClick} />}
+                    <FontAwesomeIcon icon={faTimes} size='lg' color='white' onClick={props.handleClick} /> :
+                    <FontAwesomeIcon icon={faBars} size='lg' color='white' onClick={props.handleClick} />
+            }
         </div>
     );
 }
