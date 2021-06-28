@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/meetupsReactPractice/static/css/main.271d759b.chunk.css",
-    "main.js": "/meetupsReactPractice/static/js/main.ac813309.chunk.js",
-    "main.js.map": "/meetupsReactPractice/static/js/main.ac813309.chunk.js.map",
+    "main.css": "/meetupsReactPractice/static/css/main.d1f33f6e.chunk.css",
+    "main.js": "/meetupsReactPractice/static/js/main.79836ee9.chunk.js",
+    "main.js.map": "/meetupsReactPractice/static/js/main.79836ee9.chunk.js.map",
     "runtime-main.js": "/meetupsReactPractice/static/js/runtime-main.bb3b69c3.js",
     "runtime-main.js.map": "/meetupsReactPractice/static/js/runtime-main.bb3b69c3.js.map",
     "static/js/2.5afbbfe3.chunk.js": "/meetupsReactPractice/static/js/2.5afbbfe3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.02f78d64.chunk.js": "/meetupsReactPractice/static/js/3.02f78d64.chunk.js",
     "static/js/3.02f78d64.chunk.js.map": "/meetupsReactPractice/static/js/3.02f78d64.chunk.js.map",
     "index.html": "/meetupsReactPractice/index.html",
-    "static/css/main.271d759b.chunk.css.map": "/meetupsReactPractice/static/css/main.271d759b.chunk.css.map",
+    "static/css/main.d1f33f6e.chunk.css.map": "/meetupsReactPractice/static/css/main.d1f33f6e.chunk.css.map",
     "static/js/2.5afbbfe3.chunk.js.LICENSE.txt": "/meetupsReactPractice/static/js/2.5afbbfe3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bb3b69c3.js",
     "static/js/2.5afbbfe3.chunk.js",
-    "static/css/main.271d759b.chunk.css",
-    "static/js/main.ac813309.chunk.js"
+    "static/css/main.d1f33f6e.chunk.css",
+    "static/js/main.79836ee9.chunk.js"
   ]
 }

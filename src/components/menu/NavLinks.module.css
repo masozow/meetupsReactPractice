@@ -6,6 +6,10 @@ header ul{
     background-color: #266867;
 }
 
+header nav{
+    position: inherit;
+    right: 0;
+}
 .mobileMenu{
     display: -webkit-box;
     display: -ms-flexbox;
