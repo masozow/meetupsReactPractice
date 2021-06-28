@@ -7,13 +7,13 @@ function NavLinks(props) {
     const favoritesCtx = useContext(FavoritesContext);
     return (
         <ul className={props.open ? classes.mobileMenu : ''}>
-            <li>
+            <li key={1}>
                 <NavLink to='/' exact activeClassName={classes.active}>All meetups</NavLink>
             </li>
-            <li>
+            <li key={2}>
                 <NavLink to='/new-meetup' activeClassName={classes.active}>New meetup</NavLink>
             </li>
-            <li>
+            <li key={3}>
                 <NavLink to='/favorites' activeClassName={classes.active}>Favorites
                             <span className={classes.badge}>
                         {favoritesCtx.totalFavorites}
